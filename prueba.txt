@@ -5,3 +5,8 @@
 Primera linea y ya no termina aquí. Ahora termina aquí.
 
 Además añadimos esta línea
+
+## Sección 2 Marco Teórico
+
+Aquí irá el marco teórico en el original.
+
